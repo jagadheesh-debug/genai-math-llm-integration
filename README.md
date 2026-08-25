@@ -127,4 +127,4 @@ print(function_response)
 <img width="751" height="44" alt="GENAI4" src="https://github.com/user-attachments/assets/a1a5c387-88d0-4a6b-a3bb-1929dcca61dd" />
 
 ### RESULT:
-The currency exchange function was successfully integrated with the Chat Completion System using the Function Calling feature of an LLM. The model correctly identified the required function, passed the appropriate parameter, executed the Python function, and returned the exchange rate as a structured JSON response.
+The currency exchange function was successfully integrated with the Chat Completion System using the Function Calling feature of an LLM. The model correctly identified the required function, passed the appropriate parameter, executed the Python function, and returned the exchange rate as a structured JSON response. 
