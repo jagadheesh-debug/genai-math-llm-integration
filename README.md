@@ -19,8 +19,8 @@ Define the function schema, send the user's query to the Chat Completion API, al
 
 ### PROGRAM:
 ```
-Name : P PARTHIBAN
-Register number : 212223230145
+Name : JAGADHEESH KUMAR T
+Register number : 212225040139
 ```
 ```python
 import os
